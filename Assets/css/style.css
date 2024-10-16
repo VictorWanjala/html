@@ -1,0 +1,15 @@
+h2{
+    color: chartreuse;
+    text-align: center;
+}
+
+th,td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
